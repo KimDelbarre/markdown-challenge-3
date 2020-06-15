@@ -6,12 +6,9 @@
 
 ### Wandering the world leaving footprints of love everywhere I go! :two_hearts:
 
-- Birthday: 27 December
-- Favorite colour: White
-- Favorite food: Bibimbap
-- Pineapple on pizza:
-  - [ ] Yes
-  - [x] No
+| Birthday    | Favorite Colour | Favorite Food | Pineapple on pizza |
+| ----------- | --------------- | ------------- | ------------------ |
+| 27 December | White           | Bibimbap      | - [ ] Yes - [x] No |
 
 ### Hobbies
 
