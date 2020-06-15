@@ -8,7 +8,7 @@
 
 | Birthday    | Favorite Colour | Favorite Food | Pineapple on pizza                       |
 | ----------- | --------------- | ------------- | ---------------------------------------- |
-| 27 December | White           | Bibimbap      | <ul><li>[x] Yes</li><li>[ ] No</li></ul> |
+| 27 December | White           | Bibimbap      | <ul><li>[ ] Yes</li><li>[x] No</li></ul> |
 
 ### Hobbies
 
