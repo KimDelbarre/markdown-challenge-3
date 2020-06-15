@@ -1,4 +1,4 @@
-# Nicole Saha :ghost:
+# K. Nicole Saha :ghost:
 
 > _"For every minute you are angry, you loose 60 seconds of happiness." - Ralph Waldo Emerson :kissing_cat:_
 
@@ -6,9 +6,9 @@
 
 ### Wandering the world leaving footprints of love everywhere I go! :two_hearts:
 
-| Birthday    | Favorite Colour | Favorite Food | Pineapple on pizza |
-| ----------- | --------------- | ------------- | ------------------ |
-| 27 December | White           | Bibimbap      | - [ ] Yes - [x] No |
+| Birthday    | Favorite Colour | Favorite Food | Pineapple on pizza                       |
+| ----------- | --------------- | ------------- | ---------------------------------------- |
+| 27 December | White           | Bibimbap      | <ul><li>[x] Yes</li><li>[ ] No</li></ul> |
 
 ### Hobbies
 
