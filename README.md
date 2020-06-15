@@ -21,19 +21,19 @@
   - Landschape
 - Painting
   - Watercolour
-- Hiking the world
-- Being in nature
+- Wandering Mother Earth
+- Being surrounded by nature
   - Sungazing
   - Stargazing
   - Just gazing at the beauty of nature in general !
 
 ### You can always count on me when...
 
-you are in need of a few minutes of laughter. I am a firm believer in the power of smiling!
+you are in need of a few minutes of laughter. I am a firm believer in the healing power of smiling!
 
 ### Story of my Life
 
-Once I went swimming in the ocean at midnight and decided it was a good idea to put my belongings such as money and room keys in my bra. Which was obviously not such a good idea, because it was gone after I came out of the water.
+Once upon a time, I went swimming in the Indian Ocean at midnight and decided it was a good idea to put my belongings, such as money and room keys, inside my bra while swimming so nobody would steal them. At midnight. At an empty beach. Which was obviously not such a good idea, because everything was gone after I came out of the water. Everything except for the smile on my face.
 
 > ##### **Life is a crazy lot of fun!**
 
